@@ -1,10 +1,3 @@
-Perfect! Here's your complete, customized `README.md` for a **Codeforces C++ grind repo** — `codeforces-grind` 🚀
-
----
-
-## ✅ Final `README.md` for `codeforces-grind`
-
-```markdown
 # 🔥 codeforces-grind
 
 ![Platform](https://img.shields.io/badge/Platform-Codeforces-darkred)
@@ -28,7 +21,6 @@ This repo helps me prepare for contests, improve my speed, and master algorithms
 
 ## 📂 Folder Structure
 
-```
 
 codeforces-grind/
 ├── A\_Level/
@@ -41,8 +33,6 @@ codeforces-grind/
 │       ├── A\_ShortSubstrings.cpp
 │       └── B\_ParanoidString.cpp
 ├── README.md
-
-````
 
 ---
 
@@ -83,17 +73,15 @@ codeforces-grind/
 ## 🚀 How to Run
 
 1. Clone the repo:
-   ```bash
+
    git clone https://github.com/Aadya2901/codeforces-grind.git
    cd codeforces-grind
-````
+
 
 2. Compile & run a solution:
 
-   ```bash
    g++ A_Level/231A_Team.cpp -o team
    ./team
-   ```
 
 Or use a C++ IDE like VS Code, CodeBlocks, or Sublime with C++ extension.
 
@@ -108,7 +96,7 @@ I practice on **Codeforces**, **LeetCode**, and **GeeksforGeeks**, in both **C++
 
 * [💻 GitHub](https://github.com/Aadya2901)
 * [🧠 LeetCode](https://leetcode.com/Aadya2901/)
-* [🌿 GFG](https://auth.geeksforgeeks.org/user/Aadya2901/practice/)
+* [🌿 GFG](https://auth.geeksforgeeks.org/user/aadyapatel2901/practice/)
 * [🔗 LinkedIn](https://linkedin.com/in/aadya2901)
 * [🏁 Codeforces](https://codeforces.com/profile/Aadya2901)
 
